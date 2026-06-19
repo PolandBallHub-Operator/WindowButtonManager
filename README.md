@@ -1,6 +1,6 @@
 # Window button manage NOADMIN
 <p align="center">
-  <img src="画像のURLまたはパス" alt="代替テキスト" width="500">
+  <img src="https://raw.githubusercontent.com/PolandBallHub-Operator/WindowButtonManager/refs/heads/main/wtm.png" alt="WBM2" width="500">
 </p>
 このツールは、Windowsの標準ウィンドウボタンをMac風の信号機ボタンやカスタム画像に置き換える（オーバーレイする）ための管理ツールです。
 

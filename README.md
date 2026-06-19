@@ -1,5 +1,7 @@
 # Window button manage NOADMIN
-
+<p align="center">
+  <img src="画像のURLまたはパス" alt="代替テキスト" width="500">
+</p>
 このツールは、Windowsの標準ウィンドウボタンをMac風の信号機ボタンやカスタム画像に置き換える（オーバーレイする）ための管理ツールです。
 
 ## 特徴
